@@ -1,7 +1,7 @@
 # L3-MASS
 
-Je poserai ici le fichier PDF des cours que je tape en (pdf)LaTeX. Ils seront tous datés. Veuillez ne pas les partager, ainsi que de me report les erreurs. Merci.
+Veuillez éviter de trop partager les documents, mais également de me report les coquilles / erreurs dans l'onglet dédié.
 
-Template 1 : The Legrange Orange Book.
+Template 1 : The Legrange Orange Book, modifié.
 
 Template 2 : Assemblage de packages
