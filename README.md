@@ -1,7 +1,5 @@
 # L3-MASS
 
-Veuillez éviter de trop partager les documents, mais également de me report les coquilles / erreurs dans l'onglet dédié.
+Veuillez éviter de partager les documents, et également de me report les coquilles / erreurs dans l'onglet dédié.
 
-Template 1 : The Legrange Orange Book, modifié.
-
-Template 2 : Assemblage de packages
+(au fait quand vous me croisez, payez moi une compote =D)
