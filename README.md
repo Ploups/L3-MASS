@@ -1,3 +1,3 @@
-Quelques prises de notes en L3 MASS, qui peuvent avoir des erreurs.
+Quelques prises de notes et cours en L3 MASS (2021-2022), qui peuvent avoir des erreurs.
 
 Prévenez moi si vous en trouvez, merci !
